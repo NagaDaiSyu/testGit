@@ -1,1 +1,3 @@
 testdayo
+・git add
+・git commit
